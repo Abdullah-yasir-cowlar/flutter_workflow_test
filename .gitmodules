@@ -1,0 +1,3 @@
+[submodule ".github"]
+	path = .github
+	url = git@github.com:Abdullah-yasir-cowlar/flutter_mobile_worklfow.git
